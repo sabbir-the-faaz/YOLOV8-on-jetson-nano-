@@ -109,7 +109,6 @@ For a video demonstration of this project, please watch [this video]([https://yo
 ## Contact
 
 **Darshan Anand**  
-Email: darshananand004@gmail.com  
-Dayananda Sagar University  
-CSE - AIML Pre-final Year Student
+Email: mdsabbirrahmanaksh@gmail.com  
+Md. Sabbir Rahman Akash
 ```
